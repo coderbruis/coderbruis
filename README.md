@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 一个热爱code的coder，喜欢研究底层源码，代码优化。脑袋里有许多想法，希望和志同道合的小伙伴一起coding，一起讨论。
+
+🌱 正在研究学习分布式、各种中间件以及开源框架源码中...  并以github和博客的形式记录研究心得以及各种idea。
+
+😄😄😄😄😄  各位帅哥美女们，star支持下...
 
 <!--
 **coderbruis/coderbruis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
