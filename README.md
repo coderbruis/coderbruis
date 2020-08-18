@@ -1,12 +1,12 @@
 
-### welcome to coderbruis‘s github👋👋👋
+### welcome
 
 👋 一个热爱coding的coder，热爱研究框架底层原理，以及数据结构和算法。脑袋里有许多想法，希望和志同道合的小伙伴一起coding，一起讨论。
 
 🌱 正在研究学习分布式，各种中间件以及开源框架底层原理，以github和博客的形式记录研究心得以及各种idea。
 🌱 正在研究算法和数据结构。
 
-😄😄😄😄😄
+😄 欢迎访问我的github，我会保持不定期更新。
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coderbruis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
