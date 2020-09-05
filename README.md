@@ -3,6 +3,8 @@
 
 👋 一个热爱coding的coder，热爱研究框架底层原理，以及数据结构和算法。脑袋里有许多想法，希望和志同道合的小伙伴一起一起讨论，一起coding。
 
+【认清自我，看清差距，目标明确，深入浅出】
+
 正在研究学习<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 分布式、中间件
