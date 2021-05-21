@@ -5,7 +5,7 @@
 
 【认清自我，看清差距，目标明确，深入浅出】
 
-本人精心维护的Java知识库，欢迎访问：[Java知识库](https://coderbruis.github.io/docs/)
+本人精心维护的Java知识库，欢迎访问：[Java知识库](https://coderbruis.github.io/javaDocs)
 
 正在研究学习<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
