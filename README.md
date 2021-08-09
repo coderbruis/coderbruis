@@ -12,8 +12,9 @@
 - 分布式、中间件
 - 开源框架底层原理
 - 算法和数据结构
+- 架构思想
 
-😄 <em> 欢迎访问我的github，我会保持不定期更新。
+😄 <em> 欢迎访问我的github，我会保持不定期更新，最近在学习中间件原理，敬请期待！
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
