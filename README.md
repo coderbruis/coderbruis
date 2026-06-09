@@ -1,11 +1,11 @@
 You can overcome anything, if and only if you love something enough.
 
-👋 I'm fully enthusiastic for Java, Distribued, and Middleware framework.
+👋 I'm fully enthusiastic about Java, Distributed Systems, and Middleware frameworks.
 
 📫 How to reach me
 Email: luohaiyangvs@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderbruis)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 
 <!--
 **coderbruis/coderbruis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
