@@ -5,8 +5,7 @@ You can overcome anything, if and only if you love something enough.
 📫 How to reach me
 Email: luohaiyangvs@qq.com
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coderbruis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderbruis)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **coderbruis/coderbruis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
