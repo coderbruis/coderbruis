@@ -1,31 +1,26 @@
-You can overcome anything, if and only if you love something enough.
+[![English](https://img.shields.io/badge/English-切换-blue?style=flat-square)](./README.en.md)
 
-👋 I'm fully enthusiastic about Java, Distributed Systems, and Middleware frameworks.
 
-📫 How to reach me
-Email: luohaiyangvs@qq.com,tzylhy83@gmail.com
+📫 联系方式：[luohaiyangvs@qq.com](mailto:luohaiyangvs@qq.com) / [tzylhy83@gmail.com](mailto:tzylhy83@gmail.com)
 
-## Open Source Journey
+## 开源之路
 
-I enjoy learning from well-designed open-source projects, especially in the areas of Java, distributed systems, and middleware.
+我喜欢学习和钻研优秀的开源项目，尤其关注分布式系统、中间件领域以及系统架构设计。
 
-By reading source code, tracing implementation details, and contributing small fixes where I can, I hope to deepen my understanding of production-grade software and learn from experienced maintainers and contributors.
+通过阅读源码、追踪实现细节，并尝试贡献一些力所能及的修复，我希望不断加深对生产级软件的理解，也从优秀的项目维护者和贡献者身上学习工程经验。
 
-My contributions are still modest, but I value every opportunity to participate, receive feedback, and improve. I will continue following, learning from, and contributing to open-source projects and communities.
+目前我的贡献还比较有限，但我珍惜每一次参与、接受反馈和改进的机会。未来也会持续关注和学习优秀的开源项目，积极参与开源社区。
 
-## Selected Open Source Contributions
+## 部分开源贡献
 
-| Project | Contribution | What I changed |
+| 项目 | 贡献 | 主要改动 |
 |---|---|---|
 | Apache Kafka | [PR #22722](https://github.com/apache/kafka/pull/22722) | Prevented integer overflow in CreateTopics partition validation and added regression coverage |
-| Netty | [PR #17093](https://github.com/netty/netty/pull/17093) | Added lower-bound validation for allocator maxOrder and a regression test |
+| Netty | [PR #17093](https://github.com/netty/netty/pull/17093) | Added lower-bound validation for allocator `maxOrder` and a regression test |
 | Netty | [PR #12254](https://github.com/netty/netty/pull/12254) | Removed unnecessary inner-loop iterations |
-| Apache RocketMQ | [PR #4314](https://github.com/apache/rocketmq/pull/4314) | Fixed incorrect loop control logic |
-| Apache RocketMQ | [PR #6564](https://github.com/apache/rocketmq/pull/6564/changes/cc2d9accf7ef3dd44bb71ab74fa8e051479eddf3) | Removed redundant topic publish information initialization during producer startup |
-| Apache RocketMQ | [PR #4314](https://github.com/apache/rocketmq/pull/4314/changes/0bcddf222e2a7db99a9c2aefffb3cfddefd1b545) | Removed an ineffective loop that always returned during its first iteration |
-[View all merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Acoderbruis+-user%3Acoderbruis) | - | Other Small Fixes
+| Apache RocketMQ | [PR #6564](https://github.com/apache/rocketmq/pull/6564) | Removed redundant topic publish information initialization during producer startup |
+| Apache RocketMQ | [PR #4314](https://github.com/apache/rocketmq/pull/4314) | Removed an ineffective loop that always returned during its first iteration |
 
+[View other small fixes and all merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Acoderbruis+-user%3Acoderbruis)
 
-
-![Stats](./profile/stats.svg)
-
+![GitHub 统计](./profile/stats.svg)
