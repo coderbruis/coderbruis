@@ -3,7 +3,7 @@
 
 📫 联系方式：[luohaiyangvs@qq.com](mailto:luohaiyangvs@qq.com) / [tzylhy83@gmail.com](mailto:tzylhy83@gmail.com)
 
-## 开源之路
+## 个人积累
 
 工作之余，我会静下心来阅读和研究优秀的开源项目，重点关注分布式系统、中间件和系统架构设计。
 
