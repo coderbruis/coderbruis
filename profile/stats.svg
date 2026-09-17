@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">CoderBruis&#39; GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 3998, Total Commits  (last year) : 85, Total PRs: 22, Total Issues: 10, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 3997, Total Commits  (last year) : 85, Total PRs: 22, Total Issues: 10, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 118.74537108753344;
+        stroke-dashoffset: 118.74562677821515;
       }
     }
   
