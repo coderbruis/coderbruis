@@ -1,0 +1,28 @@
+Tech stack brand assets
+
+Layout and theme SVGs were composed for this README. The reference profile's generated artwork and scripts were not copied.
+Original brand marks: Devicon (MIT), Simple Icons v15 (CC0), spring.io, Element Plus, AgentScope, Netty, and Apache Dubbo official project artwork. The original Netty and Dubbo PNGs are embedded without modification. Trademarks belong to their respective owners; the marks identify the listed technologies.
+
+Sources:
+java: https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+python: https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+mysql: https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg
+spring-cloud: https://spring.io/img/projects/spring-cloud.svg
+element-plus: https://element-plus.org/images/element-plus-logo-small.svg
+agentscope: https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg
+docker: https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg
+kubernetes: https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg
+netty: https://netty.io/images/logo.png
+dubbo: https://dubbo.apache.org/favicons/apple-touch-icon-180x180.png
+spring-boot: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/springboot.svg
+fastapi: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/fastapi.svg
+langchain: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/langchain.svg
+langgraph: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/langgraph.svg
+vue: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/vuedotjs.svg
+javascript: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/javascript.svg
+typescript: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/typescript.svg
+redis: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/redis.svg
+elasticsearch: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/elasticsearch.svg
+minio: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/minio.svg
+kafka: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/apachekafka.svg
+rocketmq: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/apacherocketmq.svg

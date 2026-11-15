@@ -1,29 +1,39 @@
-[![简体中文](https://img.shields.io/badge/简体中文-切换-red?style=flat-square)](./README.md)
+[English](./README.md) · [简体中文](./README.zh-CN.md)
 
-You can overcome anything, if and only if you love something enough.
+# Hi, I'm CoderBruis 👋
 
-👋 I'm enthusiastic about Java, distributed systems, and middleware frameworks.
+**Java Backend · Distributed Systems · Middleware**
 
-📫 Contact: [luohaiyangvs@qq.com](mailto:luohaiyangvs@qq.com) / [tzylhy83@gmail.com](mailto:tzylhy83@gmail.com)
+I focus on Java backend development, distributed systems, and middleware, including Kafka, RocketMQ, Dubbo, and Netty. I enjoy reading source code, tracing implementation details, and contributing focused fixes with regression tests.
 
-## Open Source Journey
+I'm also exploring AI agent engineering with AgentScope and the LangChain ecosystem, alongside containerized deployment with Docker and Kubernetes.
 
-I enjoy learning from well-designed open-source projects, especially in the areas of Java, distributed systems, and middleware.
+## Tech Stack
 
-By reading source code, tracing implementation details, and contributing small fixes where I can, I hope to deepen my understanding of production-grade software and learn from experienced maintainers and contributors.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/java-dark.svg"><img src="./profile/tech-stack/java-light.svg" width="400" alt="JAVA &amp; SPRING: Java, Spring Boot, Spring Cloud"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/middleware-dark.svg"><img src="./profile/tech-stack/middleware-light.svg" width="400" alt="MIDDLEWARE &amp; NETWORKING: Kafka, RocketMQ, Dubbo, Netty"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/ai-dark.svg"><img src="./profile/tech-stack/ai-light.svg" width="400" alt="AI &amp; AGENTS: Python, FastAPI, LangChain, LangGraph, AgentScope"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/devops-dark.svg"><img src="./profile/tech-stack/devops-light.svg" width="400" alt="CLOUD &amp; DEVOPS: Docker, Kubernetes"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/web-dark.svg"><img src="./profile/tech-stack/web-light.svg" width="400" alt="WEB: Vue, JavaScript, TypeScript, Element Plus"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/data-dark.svg"><img src="./profile/tech-stack/data-light.svg" width="400" alt="DATA &amp; STORAGE: MySQL, Redis, Elasticsearch, MinIO"></picture>
 
-My contributions are still modest, but I value every opportunity to participate, receive feedback, and improve. I will continue following, learning from, and contributing to open-source projects and communities.
+## Selected Pull Requests
 
-## Selected Open Source Contributions
+Small, focused improvements to correctness, validation, and resource lifecycles.
 
-| Project | Contribution | What I changed |
-|---|---|---|
-| Apache Kafka | [PR #22722](https://github.com/apache/kafka/pull/22722) | Prevented integer overflow in CreateTopics partition validation and added regression coverage |
-| Netty | [PR #17093](https://github.com/netty/netty/pull/17093) | Added lower-bound validation for allocator `maxOrder` and a regression test |
-| Netty | [PR #12254](https://github.com/netty/netty/pull/12254) | Removed unnecessary inner-loop iterations |
-| Apache RocketMQ | [PR #6564](https://github.com/apache/rocketmq/pull/6564) | Removed redundant topic publish information initialization during producer startup |
-| Apache RocketMQ | [PR #4314](https://github.com/apache/rocketmq/pull/4314) | Removed an ineffective loop that always returned during its first iteration |
+| Project | Pull request | Focus |
+| :--- | :--- | :--- |
+| **Apache Kafka** | [#22722](https://github.com/apache/kafka/pull/22722) | Prevent integer overflow in topic partition validation. |
+| **Netty** | [#17093](https://github.com/netty/netty/pull/17093) · [#12254](https://github.com/netty/netty/pull/12254) | Validate allocator bounds and remove unnecessary loop iterations. |
+| **Apache RocketMQ** | [#6564](https://github.com/apache/rocketmq/pull/6564) · [#4314](https://github.com/apache/rocketmq/pull/4314) | Remove redundant producer initialization and an ineffective loop. |
+| **AgentScope** | [#4015](https://github.com/agentscope-ai/agentscope/pull/4015) · [#4039](https://github.com/agentscope-ai/agentscope/pull/4039) | Ignore stale reply interrupts and clean up sibling embedding batches. |
 
-[View other small fixes and all merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Acoderbruis+-user%3Acoderbruis)
+[View all merged pull requests →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Acoderbruis+-user%3Acoderbruis)
+
+## GitHub Stats
 
 ![GitHub Stats](./profile/stats.svg)
+
+## Get in Touch
+
+[luohaiyangvs@qq.com](mailto:luohaiyangvs@qq.com) · [tzylhy83@gmail.com](mailto:tzylhy83@gmail.com)

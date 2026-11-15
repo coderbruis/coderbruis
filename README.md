@@ -1,26 +1,39 @@
-[![English](https://img.shields.io/badge/English-切换-blue?style=flat-square)](./README.en.md)
+[English](./README.md) · [简体中文](./README.zh-CN.md)
 
+# Hi, I'm CoderBruis 👋
 
-📫 联系方式：[luohaiyangvs@qq.com](mailto:luohaiyangvs@qq.com) / [tzylhy83@gmail.com](mailto:tzylhy83@gmail.com)
+**Java Backend · Distributed Systems · Middleware**
 
-## 个人积累
+I focus on Java backend development, distributed systems, and middleware, including Kafka, RocketMQ, Dubbo, and Netty. I enjoy reading source code, tracing implementation details, and contributing focused fixes with regression tests.
 
-工作之余，我会静下心来阅读和研究优秀的开源项目，关注分布式系统、中间件和系统架构设计。
+I'm also exploring AI agent engineering with AgentScope and the LangChain ecosystem, alongside containerized deployment with Docker and Kubernetes.
 
-通过阅读源码、追踪实现细节，并尝试贡献一些力所能及的修复，我希望不断加深对生产级软件的理解，也从优秀的项目维护者和贡献者身上学习工程经验。
+## Tech Stack
 
-目前我的贡献还比较有限，但我珍惜每一次参与、接受反馈和改进的机会。未来也会持续关注和学习优秀的开源项目，在力所能及的范围内参与开源社区。
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/java-dark.svg"><img src="./profile/tech-stack/java-light.svg" width="400" alt="JAVA &amp; SPRING: Java, Spring Boot, Spring Cloud"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/middleware-dark.svg"><img src="./profile/tech-stack/middleware-light.svg" width="400" alt="MIDDLEWARE &amp; NETWORKING: Kafka, RocketMQ, Dubbo, Netty"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/ai-dark.svg"><img src="./profile/tech-stack/ai-light.svg" width="400" alt="AI &amp; AGENTS: Python, FastAPI, LangChain, LangGraph, AgentScope"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/devops-dark.svg"><img src="./profile/tech-stack/devops-light.svg" width="400" alt="CLOUD &amp; DEVOPS: Docker, Kubernetes"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/web-dark.svg"><img src="./profile/tech-stack/web-light.svg" width="400" alt="WEB: Vue, JavaScript, TypeScript, Element Plus"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/data-dark.svg"><img src="./profile/tech-stack/data-light.svg" width="400" alt="DATA &amp; STORAGE: MySQL, Redis, Elasticsearch, MinIO"></picture>
 
-## 部分开源贡献
+## Selected Pull Requests
 
-| 项目 | 贡献 | 主要改动 |
-|---|---|---|
-| Apache Kafka | [PR #22722](https://github.com/apache/kafka/pull/22722) | Prevented integer overflow in CreateTopics partition validation and added regression coverage |
-| Netty | [PR #17093](https://github.com/netty/netty/pull/17093) | Added lower-bound validation for allocator `maxOrder` and a regression test |
-| Netty | [PR #12254](https://github.com/netty/netty/pull/12254) | Removed unnecessary inner-loop iterations |
-| Apache RocketMQ | [PR #6564](https://github.com/apache/rocketmq/pull/6564) | Removed redundant topic publish information initialization during producer startup |
-| Apache RocketMQ | [PR #4314](https://github.com/apache/rocketmq/pull/4314) | Removed an ineffective loop that always returned during its first iteration |
+Small, focused improvements to correctness, validation, and resource lifecycles.
 
-[View other small fixes and all merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Acoderbruis+-user%3Acoderbruis)
+| Project | Pull request | Focus |
+| :--- | :--- | :--- |
+| **Apache Kafka** | [#22722](https://github.com/apache/kafka/pull/22722) | Prevent integer overflow in topic partition validation. |
+| **Netty** | [#17093](https://github.com/netty/netty/pull/17093) · [#12254](https://github.com/netty/netty/pull/12254) | Validate allocator bounds and remove unnecessary loop iterations. |
+| **Apache RocketMQ** | [#6564](https://github.com/apache/rocketmq/pull/6564) · [#4314](https://github.com/apache/rocketmq/pull/4314) | Remove redundant producer initialization and an ineffective loop. |
+| **AgentScope** | [#4015](https://github.com/agentscope-ai/agentscope/pull/4015) · [#4039](https://github.com/agentscope-ai/agentscope/pull/4039) | Ignore stale reply interrupts and clean up sibling embedding batches. |
 
-![GitHub 统计](./profile/stats.svg)
+[View all merged pull requests →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Acoderbruis+-user%3Acoderbruis)
+
+## GitHub Stats
+
+![GitHub Stats](./profile/stats.svg)
+
+## Get in Touch
+
+[luohaiyangvs@qq.com](mailto:luohaiyangvs@qq.com) · [tzylhy83@gmail.com](mailto:tzylhy83@gmail.com)
