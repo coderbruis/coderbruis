@@ -2,7 +2,7 @@
 
 # Hi, I'm CoderBruis 👋
 
-**Java Backend · Distributed Systems · Middleware**
+**Java Backend · Distributed Systems · Middleware · AI Agent**
 
 I focus on Java backend development, distributed systems, and middleware, including Kafka, RocketMQ, Dubbo, and Netty. I enjoy reading source code, tracing implementation details, and contributing focused fixes with regression tests.
 
