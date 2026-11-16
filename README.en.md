@@ -15,7 +15,7 @@ I'm also exploring AI agent engineering with AgentScope and the LangChain ecosys
 <picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/ai-dark.svg"><img src="./profile/tech-stack/ai-light.svg" width="400" alt="AI &amp; AGENTS: Python, FastAPI, LangChain, LangGraph, AgentScope"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/devops-dark.svg"><img src="./profile/tech-stack/devops-light.svg" width="400" alt="CLOUD &amp; DEVOPS: Docker, Kubernetes"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/web-dark.svg"><img src="./profile/tech-stack/web-light.svg" width="400" alt="WEB: Vue, JavaScript, TypeScript, Element Plus"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/data-dark.svg"><img src="./profile/tech-stack/data-light.svg" width="400" alt="DATA &amp; STORAGE: MySQL, Redis, Elasticsearch, MinIO"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tech-stack/data-dark.svg"><img src="./profile/tech-stack/data-light.svg" width="400" alt="DATA &amp; STORAGE: MySQL, Redis, Elasticsearch"></picture>
 
 ## Selected Pull Requests
 

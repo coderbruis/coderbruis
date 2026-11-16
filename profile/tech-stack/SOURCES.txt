@@ -23,6 +23,5 @@ javascript: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/javascript.sv
 typescript: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/typescript.svg
 redis: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/redis.svg
 elasticsearch: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/elasticsearch.svg
-minio: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/minio.svg
 kafka: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/apachekafka.svg
 rocketmq: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/apacherocketmq.svg
