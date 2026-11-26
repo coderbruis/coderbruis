@@ -1,15 +1,14 @@
-[English](./README.md)
+[English](./README.md) · [简体中文](./README.zh-CN.md)
 
+# 你好，我是 CoderBruis 👋
+
+**资深后端工程师 · 全栈 · 分布式系统 · 中间件 · AI Agent**
+
+我是一名以 Java 为主的资深后端工程师，具备全栈开发经验。我的核心方向是分布式系统和中间件，包括 Kafka、RocketMQ、Dubbo 和 Netty。我喜欢阅读源码，把问题追到具体实现，并向上游开源项目贡献小而精、带测试的修复。
+
+在 AI 方向，我使用 Python、FastAPI、LangChain、LangGraph 和 AgentScope 构建 Agent 应用，并通过 Docker 和 Kubernetes 部署。
 
 📫 联系方式：[luohaiyangvs@qq.com](mailto:luohaiyangvs@qq.com) / [tzylhy83@gmail.com](mailto:tzylhy83@gmail.com)
-
-## 个人积累
-
-工作之余，我会静下心来阅读和研究优秀的开源项目，关注分布式系统、中间件和系统架构设计。
-
-通过阅读源码、追踪实现细节，并尝试贡献一些力所能及的修复，我希望不断加深对生产级软件的理解，也从优秀的项目维护者和贡献者身上学习工程经验。
-
-目前我的贡献还比较有限，但我珍惜每一次参与、接受反馈和改进的机会。未来也会持续关注和学习优秀的开源项目，在力所能及的范围内参与开源社区。
 
 ## 部分开源贡献
 
