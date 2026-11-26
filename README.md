@@ -2,11 +2,11 @@
 
 # Hi, I'm CoderBruis 👋
 
-**Java Backend · Distributed Systems · Middleware · AI Agent**
+**Senior Backend Engineer · Full-Stack · Distributed Systems · Middleware · AI Agents**
 
-I focus on Java backend development, distributed systems, and middleware, including Kafka, RocketMQ, Dubbo, and Netty. I enjoy reading source code, tracing implementation details, and contributing focused fixes with regression tests.
+I'm a senior backend engineer working mainly in Java, with hands-on experience across the stack. My core focus is distributed systems and middleware: Kafka, RocketMQ, Dubbo, and Netty. I like reading source code, tracing behavior down to the implementation, and contributing small, well-tested fixes upstream.
 
-I'm also exploring AI agent engineering with AgentScope and the LangChain ecosystem, alongside containerized deployment with Docker and Kubernetes.
+On the AI side, I build agent applications with Python, FastAPI, LangChain, LangGraph, and AgentScope, and deploy them with Docker and Kubernetes.
 
 ## Tech Stack
 
